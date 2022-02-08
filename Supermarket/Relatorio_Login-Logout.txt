@@ -1,0 +1,532 @@
+LogOut: -- Funcionário: Krakatazc || Data: Qua 20/06/2018 08:53:19
+
+LogIn: --- Funcionário: Krakatazc || Data: Qua 20/06/2018 09:49:15
+
+LogOut: -- Funcionário: Krakatazc || Data: Qua 20/06/2018 09:50:24
+
+LogIn: --- Funcionário: Krakatazc || Data: Qua 20/06/2018 09:54:48
+
+LogOut: -- Funcionário: Krakatazc || Data: Qua 20/06/2018 09:59:17
+
+LogIn: --- Funcionário: Krakatazc || Data: Qua 20/06/2018 09:59:27
+
+LogIn: --- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:05:33
+
+LogIn: --- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:09:30
+
+LogOut: -- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:10:28
+
+LogIn: --- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:12:27
+
+LogOut: -- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:14:02
+
+LogOut: -- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:14:02
+
+LogIn: --- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:14:58
+
+LogOut: -- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:15:00
+
+LogIn: --- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:19:14
+
+LogOut: -- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:19:18
+
+LogOut: -- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:19:18
+
+LogIn: --- Funcionário: Rebecca || Data: Qua 20/06/2018 10:19:28
+
+LogOut: -- Funcionário: Rebecca || Data: Qua 20/06/2018 10:19:35
+
+LogIn: --- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:19:41
+
+LogOut: -- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:20:10
+
+LogOut: -- Funcionário: Krakatazc || Data: Qua 20/06/2018 10:20:10
+
+LogIn: --- Funcionário: Rebecca || Data: Qua 20/06/2018 10:20:14
+
+LogOut: -- Funcionário: Rebecca || Data: Qua 20/06/2018 10:20:18
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:23:59
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:24:03
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:24:40
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:24:43
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:25:54
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:25:59
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:26:25
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:26:31
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:26:57
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:27:32
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:29:04
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:29:09
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:31:32
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:31:37
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:32:54
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:33:15
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:44:16
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:44:19
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:45:57
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:46:37
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:48:25
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:48:31
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:50:16
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 17:50:24
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:11:46
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:11:49
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:12:33
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:12:42
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:13:20
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:13:23
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:14:20
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:14:45
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:15:05
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:16:28
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:18:24
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:18:30
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 21:18:30
+
+LogIn: --- Funcionário: Yarsanf || Data: Qui 21/06/2018 21:18:35
+
+LogOut: -- Funcionário: Yarsanf || Data: Qui 21/06/2018 21:18:41
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:19:25
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:19:32
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:19:45
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:20:15
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:47:13
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:47:22
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:48:15
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:49:18
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:50:14
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:50:57
+
+LogIn: --- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:55:33
+
+LogOut: -- Funcionário: Krakatazc || Data: Qui 21/06/2018 23:55:54
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:06:48
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:07:12
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:09:55
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:10:02
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:10:22
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:10:36
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:11:13
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:12:01
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:13:13
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:13:50
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:15:13
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:15:18
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:18:02
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:18:27
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:20:29
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:20:45
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:56:06
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 00:56:42
+
+LogIn: --- Funcionário: Yarsanf || Data: Sex 22/06/2018 00:58:16
+
+LogOut: -- Funcionário: Yarsanf || Data: Sex 22/06/2018 00:58:36
+
+LogIn: --- Funcionário: Yarsanf || Data: Sex 22/06/2018 00:59:31
+
+LogOut: -- Funcionário: Yarsanf || Data: Sex 22/06/2018 01:01:06
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 01:24:34
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 01:25:17
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 12:09:26
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 12:09:40
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 12:27:42
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 12:27:48
+
+LogIn: --- Funcionário: Krakatazc || Data: Sex 22/06/2018 12:39:16
+
+LogOut: -- Funcionário: Krakatazc || Data: Sex 22/06/2018 13:00:13
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:18:01
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:18:03
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:25:24
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:25:29
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:35:22
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:35:44
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:37:21
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:37:28
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:38:59
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:40:46
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:48:01
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:48:05
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:51:27
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 19:51:34
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:29:23
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:29:53
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:30:12
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:30:16
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:30:28
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:30:36
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:30:48
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:30:52
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:31:34
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:31:38
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:31:54
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:32:03
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:32:41
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:33:02
+
+LogIn: --- Funcionário: Tchongo || Data: Sáb 23/06/2018 20:33:21
+
+LogOut: -- Funcionário: Tchongo || Data: Sáb 23/06/2018 20:34:23
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:35:04
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:35:22
+
+LogIn: --- Funcionário: Tchongo || Data: Sáb 23/06/2018 20:35:50
+
+LogOut: -- Funcionário: Tchongo || Data: Sáb 23/06/2018 20:35:56
+
+LogIn: --- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:36:15
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:38:55
+
+LogOut: -- Funcionário: Krakatazc || Data: Sáb 23/06/2018 20:38:55
+
+LogIn: --- Funcionário: Rebecca || Data: Sáb 23/06/2018 20:39:09
+
+LogOut: -- Funcionário: Rebecca || Data: Sáb 23/06/2018 20:40:38
+
+LogIn: --- Funcionário: Josenyr || Data: Sáb 23/06/2018 20:42:29
+
+LogOut: -- Funcionário: Josenyr || Data: Sáb 23/06/2018 20:43:23
+
+LogIn: --- Funcionário: Josenyr || Data: Sáb 23/06/2018 20:43:52
+
+LogOut: -- Funcionário: Josenyr || Data: Sáb 23/06/2018 20:44:55
+
+LogIn: --- Funcionário: Josenyr || Data: Sáb 23/06/2018 20:45:16
+
+LogOut: -- Funcionário: Josenyr || Data: Sáb 23/06/2018 20:51:12
+
+LogIn: --- Funcionário: Fabricio || Data: Sáb 23/06/2018 21:01:50
+
+LogOut: -- Funcionário: Fabricio || Data: Sáb 23/06/2018 21:02:07
+
+LogIn: --- Funcionário: Fabricio || Data: Sáb 23/06/2018 21:10:52
+
+LogOut: -- Funcionário: Fabricio || Data: Sáb 23/06/2018 21:12:34
+
+LogOut: -- Funcionário: Fabricio || Data: Sáb 23/06/2018 21:12:34
+
+LogIn: --- Funcionário: Gustavo || Data: Sáb 23/06/2018 21:12:37
+
+LogOut: -- Funcionário: Gustavo || Data: Sáb 23/06/2018 21:12:42
+
+LogIn: --- Funcionário: Josenyr || Data: Sáb 23/06/2018 21:19:17
+
+LogOut: -- Funcionário: Josenyr || Data: Sáb 23/06/2018 21:21:03
+
+LogIn: --- Funcionário: Fabricio || Data: Sáb 23/06/2018 21:23:17
+
+LogOut: -- Funcionário: Fabricio || Data: Sáb 23/06/2018 21:23:41
+
+LogIn: --- Funcionário: Rebecca || Data: Sáb 23/06/2018 21:32:41
+
+LogOut: -- Funcionário: Rebecca || Data: Sáb 23/06/2018 21:33:06
+
+LogIn: --- Funcionário: Fabricio || Data: Sáb 23/06/2018 21:41:02
+
+LogOut: -- Funcionário: Fabricio || Data: Sáb 23/06/2018 21:41:18
+
+LogIn: --- Funcionário: Rebecca || Data: Sáb 23/06/2018 22:24:17
+
+LogOut: -- Funcionário: Rebecca || Data: Sáb 23/06/2018 22:25:21
+
+LogOut: -- Funcionário: Rebecca || Data: Sáb 23/06/2018 22:25:21
+
+LogIn: --- Funcionário: Gustavo || Data: Sáb 23/06/2018 22:25:26
+
+LogOut: -- Funcionário: Gustavo || Data: Sáb 23/06/2018 22:26:03
+
+LogIn: --- Funcionário: Fabricio || Data: Sáb 23/06/2018 22:28:24
+
+LogOut: -- Funcionário: Fabricio || Data: Sáb 23/06/2018 22:29:00
+
+LogIn: --- Funcionário: Josenyr || Data: Sáb 23/06/2018 22:32:05
+
+LogOut: -- Funcionário: Josenyr || Data: Sáb 23/06/2018 22:34:44
+
+LogIn: --- Funcionário: Fabricio || Data: Sáb 23/06/2018 23:18:23
+
+LogOut: -- Funcionário: Fabricio || Data: Sáb 23/06/2018 23:18:40
+
+LogIn: --- Funcionário: Fabricio || Data: Sáb 23/06/2018 23:19:19
+
+LogOut: -- Funcionário: Fabricio || Data: Sáb 23/06/2018 23:19:40
+
+LogIn: --- Funcionário: Fabricio || Data: Sáb 23/06/2018 23:39:49
+
+LogOut: -- Funcionário: Fabricio || Data: Sáb 23/06/2018 23:40:02
+
+LogIn: --- Funcionário: Fabricio || Data: Sáb 23/06/2018 23:41:03
+
+LogOut: -- Funcionário: Fabricio || Data: Sáb 23/06/2018 23:51:29
+
+LogOut: -- Funcionário: Fabricio || Data: Sáb 23/06/2018 23:51:29
+
+LogIn: --- Funcionário: Fabricio || Data: Sáb 23/06/2018 23:56:03
+
+LogOut: -- Funcionário: Fabricio || Data: Dom 24/06/2018 01:54:04
+
+LogOut: -- Funcionário: Fabricio || Data: Dom 24/06/2018 01:54:04
+
+LogIn: --- Funcionário: Gustavo || Data: Dom 24/06/2018 01:54:17
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 01:56:15
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 01:56:16
+
+LogIn: --- Funcionário: Fabricio || Data: Dom 24/06/2018 01:56:20
+
+LogOut: -- Funcionário: Fabricio || Data: Dom 24/06/2018 02:05:39
+
+LogOut: -- Funcionário: Fabricio || Data: Dom 24/06/2018 02:05:39
+
+LogIn: --- Funcionário: Gustavo || Data: Dom 24/06/2018 02:05:42
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 02:06:16
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 02:06:16
+
+LogIn: --- Funcionário: Fabricio || Data: Dom 24/06/2018 02:06:20
+
+LogOut: -- Funcionário: Fabricio || Data: Dom 24/06/2018 02:24:04
+
+LogIn: --- Funcionário: Josenyr || Data: Dom 24/06/2018 02:25:34
+
+LogOut: -- Funcionário: Josenyr || Data: Dom 24/06/2018 02:26:00
+
+LogOut: -- Funcionário: Josenyr || Data: Dom 24/06/2018 02:26:00
+
+LogIn: --- Funcionário: Gustavo || Data: Dom 24/06/2018 02:26:03
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 02:26:06
+
+LogIn: --- Funcionário: Gustavo || Data: Dom 24/06/2018 02:26:34
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 02:26:38
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 02:26:38
+
+LogIn: --- Funcionário: Fabricio || Data: Dom 24/06/2018 02:26:42
+
+LogOut: -- Funcionário: Fabricio || Data: Dom 24/06/2018 02:26:58
+
+LogIn: --- Funcionário: Gustavo || Data: Dom 24/06/2018 02:27:33
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 02:27:42
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 02:27:42
+
+LogIn: --- Funcionário: Fabricio || Data: Dom 24/06/2018 02:27:46
+
+LogOut: -- Funcionário: Fabricio || Data: Dom 24/06/2018 02:28:01
+
+LogIn: --- Funcionário: Gustavo || Data: Dom 24/06/2018 02:28:37
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 02:40:28
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 02:40:28
+
+LogIn: --- Funcionário: Fabricio || Data: Dom 24/06/2018 02:40:36
+
+LogOut: -- Funcionário: Fabricio || Data: Dom 24/06/2018 02:49:27
+
+LogIn: --- Funcionário: Fabricio || Data: Dom 24/06/2018 02:50:11
+
+LogIn: --- Funcionário: Fabricio || Data: Dom 24/06/2018 02:55:24
+
+LogOut: -- Funcionário: Fabricio || Data: Dom 24/06/2018 02:57:26
+
+LogOut: -- Funcionário: Fabricio || Data: Dom 24/06/2018 03:29:59
+
+LogIn: --- Funcionário: Josenyr || Data: Dom 24/06/2018 16:51:22
+
+LogOut: -- Funcionário: Josenyr || Data: Dom 24/06/2018 16:51:26
+
+LogOut: -- Funcionário: Josenyr || Data: Dom 24/06/2018 16:51:26
+
+LogIn: --- Funcionário: Fabricio || Data: Dom 24/06/2018 16:52:23
+
+LogOut: -- Funcionário: Fabricio || Data: Dom 24/06/2018 17:00:28
+
+LogIn: --- Funcionário: Gustavo || Data: Dom 24/06/2018 17:00:43
+
+LogOut: -- Funcionário: Gustavo || Data: Dom 24/06/2018 17:02:20
+
+LogIn: --- Funcionário: Josenyr || Data: Dom 24/06/2018 17:07:55
+
+LogOut: -- Funcionário: Josenyr || Data: Dom 24/06/2018 17:10:02
+
+LogIn: --- Funcionário: Fabricio || Data: Seg 25/06/2018 20:16:49
+
+LogOut: -- Funcionário: Fabricio || Data: Seg 25/06/2018 20:25:34
+
+LogIn: --- Funcionário: Fabricio || Data: Seg 25/06/2018 20:46:54
+
+LogOut: -- Funcionário: Fabricio || Data: Seg 25/06/2018 20:46:58
+
+LogOut: -- Funcionário: Fabricio || Data: Seg 25/06/2018 20:46:58
+
+LogIn: --- Funcionário: Gustavo || Data: Seg 25/06/2018 20:47:01
+
+LogOut: -- Funcionário: Gustavo || Data: Seg 25/06/2018 20:47:13
+
+LogOut: -- Funcionário: Gustavo || Data: Seg 25/06/2018 20:47:13
+
+LogIn: --- Funcionário: Fabricio || Data: Seg 25/06/2018 20:47:17
+
+LogOut: -- Funcionário: Fabricio || Data: Ter 26/06/2018 02:49:57
+
+LogIn: --- Funcionário: Gustavo || Data: Seg 02/07/2018 18:46:17
+
+LogOut: -- Funcionário: Gustavo || Data: Seg 02/07/2018 18:46:29
+
+LogIn: --- Funcionário: Gustavo || Data: Qua 04/07/2018 17:07:29
+
+LogOut: -- Funcionário: Gustavo || Data: Qua 04/07/2018 17:07:39
+
+LogOut: -- Funcionário: Gustavo || Data: Qua 04/07/2018 17:07:39
+
+LogIn: --- Funcionário: Fabricio || Data: Qua 04/07/2018 17:09:09
+
+LogOut: -- Funcionário: Fabricio || Data: Qua 04/07/2018 17:09:18
+
+LogOut: -- Funcionário: Fabricio || Data: Qua 04/07/2018 17:09:18
+
+LogIn: --- Funcionário: Fabricio || Data: Qua 04/07/2018 17:45:53
+
+LogOut: -- Funcionário: Fabricio || Data: Qua 04/07/2018 17:46:09
+
+LogOut: -- Funcionário: Fabricio || Data: Qua 04/07/2018 17:46:09
+
+LogIn: --- Funcionário: Gustavo || Data: Qua 04/07/2018 17:46:29
+
+LogOut: -- Funcionário: Gustavo || Data: Qua 04/07/2018 17:47:45
+
+LogOut: -- Funcionário: Gustavo || Data: Qua 04/07/2018 17:47:45
+
+LogIn: --- Funcionário: Fabricio || Data: Qua 04/07/2018 17:47:49
+
+LogOut: -- Funcionário: Fabricio || Data: Qua 04/07/2018 17:54:04
+
+LogIn: --- Funcionário: Fabricio || Data: Qua 04/07/2018 17:56:04
+
+LogOut: -- Funcionário: Fabricio || Data: Qua 04/07/2018 17:58:23
+
+LogIn: --- Funcionário: Gustavo || Data: Qua 04/07/2018 17:58:33
+
+LogOut: -- Funcionário: Gustavo || Data: Qua 04/07/2018 17:58:36
+
+LogOut: -- Funcionário: Gustavo || Data: Qua 04/07/2018 17:58:36
+
+LogIn: --- Funcionário: Gustavo || Data: Qua 04/07/2018 18:00:16
+
+LogOut: -- Funcionário: Gustavo || Data: Qua 04/07/2018 18:01:39
+
+LogOut: -- Funcionário: Gustavo || Data: Qua 04/07/2018 18:01:39
+
+LogIn: --- Funcionário: Fabricio || Data: Qua 04/07/2018 18:01:43
+
+LogOut: -- Funcionário: Fabricio || Data: Qua 04/07/2018 18:09:17
+

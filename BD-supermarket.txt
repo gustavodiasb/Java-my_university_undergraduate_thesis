@@ -1,0 +1,123 @@
+CREATE DATABASE supermarket; 
+
+/* DROP TABLE tb_funcionario; */
+
+
+use supermarket;
+
+/*
+DROP TABLE supermarket.tb_funcionario;
+
+/* AUMENTAR O TAMANHO DO VARCHAR DA TABELA
+ALTER TABLE tb_funcionario MODIFY acesso_funcionario VARCHAR(20) null;*/
+
+/* FUNCIONARIO */
+CREATE TABLE tb_funcionario (
+id_funcionario int(10) auto_increment primary key,
+nome_funcionario varchar(200) null,
+email_funcionario varchar(100) null,
+cargo_funcionario varchar(30) null,
+login_funcionario varchar(20) null,
+senha_funcionario varchar(20) null,
+acesso_funcionario varchar(20) null
+);
+
+select * from supermarket.tb_funcionario;
+
+/* CATEGORIA DO PRODUTO */
+CREATE TABLE tb_categoriaProduto (
+id_categoria int(10) auto_increment primary key,
+nome_categoria varchar(200) null
+);
+select * from supermarket.tb_categoriaproduto;
+
+/* PRODUTO */
+CREATE TABLE tb_produto (
+id_produto int(10) auto_increment primary key,
+nome_produto varchar(200) null,
+codigoBarra_produto varchar(30) null,
+marca_produto varchar(45) null,
+qtde_produto int(10) null,
+qtdeMin_produto int(10) null,
+vlCompra_produto decimal(9,2) null,
+vlVenda_produto decimal(9,2) null,
+lucro_produto decimal(9,2) null,
+vlTotalEstoque_produto decimal(9,2) null,              
+vlTotalVenda_produto decimal(9,2) null,
+idCategoria_produto int(10),
+foreign key (idCategoria_produto) references tb_categoriaProduto(id_categoria)
+);
+select * from supermarket.tb_produto;
+/* ALTER TABLE tb_produto ADD marca_produto varchar (45) null; */
+
+
+/* INNER JOIN TB CATEGORIA e TB PRODUTO*/
+CREATE VIEW view_produto AS SELECT prod.id_produto, prod.nome_produto, prod.codigoBarra_produto, prod.marca_produto, prod.qtde_produto, prod.qtdeMin_produto, prod.vlCompra_produto, prod.vlVenda_produto, prod.lucro_produto, prod.vlTotalEstoque_produto, prod.vlTotalVenda_produto, cat.id_categoria, cat.nome_categoria FROM tb_produto prod INNER JOIN tb_categoriaProduto cat ON cat.id_categoria = prod.idCategoria_produto;
+select * from supermarket.view_produto;	
+
+
+/* FORNECEDOR */
+CREATE TABLE tb_fornecedor (
+id_fornecedor int(10) auto_increment primary key,
+nome_fornecedor varchar(200),
+descricao_fornecedor text null);
+select * from supermarket.tb_fornecedor;
+
+/* TABELA ASSOCIATIVA REPOR PRODUTO */
+CREATE TABLE itens_fornecedor_produto(
+id_fornecedor int(10),
+id_produto int(10),
+quantidade_produto int(10),
+data_repor varchar(30) null,
+CONSTRAINT foreign key (id_fornecedor) references tb_fornecedor(id_fornecedor),
+CONSTRAINT foreign key (id_produto) references tb_produto(id_produto)
+);
+
+
+/* VENDA PRODUTO */
+CREATE TABLE tb_venda(
+id_venda int(10) auto_increment primary key,
+valor_venda decimal(12,2) null,
+data_venda varchar(30) null,
+id_funcionario int(10),
+CONSTRAINT foreign key (id_funcionario) references tb_funcionario(id_funcionario)
+);
+SELECT * FROM supermarket.tb_venda;
+
+
+/* TABELA ASSOCIATIVA VENDA PRODUTO */
+CREATE TABLE itens_venda_produto(
+id_venda int(10),
+id_produto int(10),
+quantidade_produto int(10),
+CONSTRAINT foreign key (id_venda) references tb_venda(id_venda),
+CONSTRAINT foreign key (id_produto) references tb_produto(id_produto)
+);
+/*ALTER TABLE itens_venda_produto ADD CONSTRAINT foreign key (id_venda) references tb_venda(id_venda);*/
+SELECT * FROM supermarket.itens_venda_produto;
+
+
+/* VIEW VENDAS por FUNCIONÁRIO */
+CREATE VIEW view_venda AS
+SELECT	
+	vend.id_venda, vend.valor_venda, vend.data_venda,
+	func.id_funcionario, func.nome_funcionario
+FROM
+	tb_venda vend RIGHT OUTER JOIN tb_funcionario func ON func.id_funcionario = vend.id_funcionario
+ORDER BY vend.data_venda DESC;
+select * from supermarket.view_venda;
+
+
+/* VIEW ITENS DA VENDAS */
+CREATE VIEW view_itensVenda AS
+SELECT	DISTINCT
+	vend.id_venda, vend.data_venda,
+	prod.id_produto, prod.nome_produto,
+	item.quantidade_produto
+FROM
+	itens_venda_produto item RIGHT OUTER JOIN tb_venda vend ON item.id_venda = vend.id_venda
+LEFT OUTER JOIN
+	tb_produto prod ON item.id_produto = prod.id_produto
+ORDER BY vend.data_venda DESC;
+select * from supermarket.view_itensVenda;
+
